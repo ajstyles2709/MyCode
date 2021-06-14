@@ -9,7 +9,7 @@ print("Good Luck ! ", name)
 
 words = ['rainbow', 'computer', 'science', 'programming', 
 		'python', 'mathematics', 'player', 'condition', 
-		'reverse', 'water', 'board', 'geeks'] 
+		'reverse', 'water', 'board', 'geeks','athaulla'] 
 
 # Function will choose one random 
 # word from this list of words 
